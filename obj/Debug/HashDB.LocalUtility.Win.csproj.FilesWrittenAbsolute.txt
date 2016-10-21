@@ -1,0 +1,16 @@
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/obj/Debug/HashDB.LocalUtility.Win.Compare.resources
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/obj/Debug/HashDB.LocalUtility.Win.Form1.resources
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/obj/Debug/HashDB.LocalUtility.Win.Hash.resources
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/obj/Debug/HashDB.LocalUtility.Win.Properties.Resources.resources
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/bin/Debug/HashDB.LocalUtility.Win.exe.config
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/bin/Debug/HashDB.LocalUtility.Win.exe.mdb
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/bin/Debug/HashDB.LocalUtility.Win.pdb
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/bin/Debug/HashDB.LocalUtility.Win.exe
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/obj/Debug/HashDB.LocalUtility.Win.exe
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/obj/Debug/HashDB.LocalUtility.Win.exe.mdb
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/obj/Debug/HashDB.LocalUtility.Win.pdb
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/bin/Debug/EntityFramework.dll
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/bin/Debug/EntityFramework.SqlServer.dll
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/bin/Debug/ProphetsWay.Utilities.dll
+/Users/jeremyturney/Documents/HashDB.LocalUtility.Win/bin/Debug/protobuf-net.dll
